@@ -1,0 +1,108 @@
+0,3,,0.4581005586592179
+1,4,,0.41899441340782123
+2,<10 minutes,,0.40782122905027934
+3,Doesn't take AP Art/Drama,,0.9776536312849162
+4,Doesn't take AP Biology,,0.6703910614525139
+5,Doesn't take AP Chemistry,,0.6033519553072626
+6,Doesn't take AP English,,0.6256983240223464
+7,Doesn't take AP French,,0.9441340782122905
+8,Doesn't take AP GH,,0.664804469273743
+9,Doesn't take AP Mandarin,,0.9720670391061452
+10,Doesn't take AP Physics,,0.7150837988826816
+11,Doesn't take AP Programming,,0.9385474860335196
+12,Doesn't take AP Spanish,,0.9273743016759777
+13,Doesn't take no AP,,0.8994413407821229
+14,Night owl,,0.7988826815642458
+15,Someone else drives me,,0.5027932960893855
+16,Takes AP Math,,0.6871508379888268
+17,Doesn't take AP Art/Drama,3,0.44692737430167595
+18,Doesn't take AP French,3,0.4245810055865922
+19,Doesn't take AP Mandarin,3,0.43575418994413406
+20,Doesn't take AP Programming,3,0.441340782122905
+21,Doesn't take AP Spanish,3,0.4301675977653631
+22,Doesn't take no AP,3,0.41899441340782123
+23,4,Doesn't take AP Art/Drama,0.41899441340782123
+24,4,Doesn't take AP Mandarin,0.4134078212290503
+25,Doesn't take AP Art/Drama,<10 minutes,0.4022346368715084
+26,Doesn't take AP Art/Drama,Doesn't take AP Biology,0.6536312849162011
+27,Doesn't take AP Chemistry,Doesn't take AP Art/Drama,0.5810055865921788
+28,Doesn't take AP Art/Drama,Doesn't take AP English,0.6145251396648045
+29,Doesn't take AP Art/Drama,Doesn't take AP French,0.9217877094972067
+30,Doesn't take AP Art/Drama,Doesn't take AP GH,0.6480446927374302
+31,Doesn't take AP Art/Drama,Doesn't take AP Mandarin,0.9497206703910615
+32,Doesn't take AP Art/Drama,Doesn't take AP Physics,0.6927374301675978
+33,Doesn't take AP Art/Drama,Doesn't take AP Programming,0.9162011173184358
+34,Doesn't take AP Spanish,Doesn't take AP Art/Drama,0.9050279329608939
+35,Doesn't take AP Art/Drama,Doesn't take no AP,0.8770949720670391
+36,Doesn't take AP Art/Drama,Night owl,0.776536312849162
+37,Doesn't take AP Art/Drama,Someone else drives me,0.4972067039106145
+38,Doesn't take AP Art/Drama,Takes AP Math,0.6815642458100558
+39,Doesn't take AP Chemistry,Doesn't take AP Biology,0.553072625698324
+40,Doesn't take AP Biology,Doesn't take AP English,0.4134078212290503
+41,Doesn't take AP Biology,Doesn't take AP French,0.6368715083798883
+42,Doesn't take AP GH,Doesn't take AP Biology,0.4301675977653631
+43,Doesn't take AP Mandarin,Doesn't take AP Biology,0.6480446927374302
+44,Doesn't take AP Physics,Doesn't take AP Biology,0.547486033519553
+45,Doesn't take AP Programming,Doesn't take AP Biology,0.6256983240223464
+46,Doesn't take AP Spanish,Doesn't take AP Biology,0.6256983240223464
+47,Doesn't take no AP,Doesn't take AP Biology,0.5698324022346368
+48,Doesn't take AP Biology,Night owl,0.5363128491620112
+49,Doesn't take AP Biology,Takes AP Math,0.4245810055865922
+50,Doesn't take AP Chemistry,Doesn't take AP French,0.5642458100558659
+51,Doesn't take AP Chemistry,Doesn't take AP Mandarin,0.5921787709497207
+52,Doesn't take AP Chemistry,Doesn't take AP Physics,0.5642458100558659
+53,Doesn't take AP Chemistry,Doesn't take AP Programming,0.5754189944134078
+54,Doesn't take AP Chemistry,Doesn't take AP Spanish,0.5586592178770949
+55,Doesn't take AP Chemistry,Doesn't take no AP,0.5027932960893855
+56,Doesn't take AP Chemistry,Night owl,0.49162011173184356
+57,Doesn't take AP French,Doesn't take AP English,0.6145251396648045
+58,Doesn't take AP GH,Doesn't take AP English,0.4692737430167598
+59,Doesn't take AP Mandarin,Doesn't take AP English,0.6033519553072626
+60,Doesn't take AP Physics,Doesn't take AP English,0.441340782122905
+61,Doesn't take AP Programming,Doesn't take AP English,0.5865921787709497
+62,Doesn't take AP Spanish,Doesn't take AP English,0.6033519553072626
+63,Doesn't take no AP,Doesn't take AP English,0.5251396648044693
+64,Night owl,Doesn't take AP English,0.48044692737430167
+65,Doesn't take AP GH,Doesn't take AP French,0.6424581005586593
+66,Doesn't take AP Mandarin,Doesn't take AP French,0.9162011173184358
+67,Doesn't take AP Physics,Doesn't take AP French,0.664804469273743
+68,Doesn't take AP Programming,Doesn't take AP French,0.88268156424581
+69,Doesn't take AP Spanish,Doesn't take AP French,0.8770949720670391
+70,Doesn't take no AP,Doesn't take AP French,0.8435754189944135
+71,Night owl,Doesn't take AP French,0.7541899441340782
+72,Someone else drives me,Doesn't take AP French,0.46368715083798884
+73,Takes AP Math,Doesn't take AP French,0.6368715083798883
+74,Doesn't take AP GH,Doesn't take AP Mandarin,0.6480446927374302
+75,Doesn't take AP GH,Doesn't take AP Physics,0.46368715083798884
+76,Doesn't take AP GH,Doesn't take AP Programming,0.6256983240223464
+77,Doesn't take AP Spanish,Doesn't take AP GH,0.6256983240223464
+78,Doesn't take AP GH,Doesn't take no AP,0.5642458100558659
+79,Doesn't take AP GH,Night owl,0.5586592178770949
+80,Doesn't take AP GH,Takes AP Math,0.43575418994413406
+81,Doesn't take AP Mandarin,Doesn't take AP Physics,0.6983240223463687
+82,Doesn't take AP Mandarin,Doesn't take AP Programming,0.9106145251396648
+83,Doesn't take AP Spanish,Doesn't take AP Mandarin,0.8994413407821229
+84,Doesn't take AP Mandarin,Doesn't take no AP,0.8715083798882681
+85,Doesn't take AP Mandarin,Night owl,0.770949720670391
+86,Doesn't take AP Mandarin,Someone else drives me,0.4972067039106145
+87,Doesn't take AP Mandarin,Takes AP Math,0.659217877094972
+88,Doesn't take AP Programming,Doesn't take AP Physics,0.6983240223463687
+89,Doesn't take AP Spanish,Doesn't take AP Physics,0.6480446927374302
+90,Doesn't take AP Physics,Doesn't take no AP,0.6145251396648045
+91,Doesn't take AP Physics,Night owl,0.5921787709497207
+92,Doesn't take AP Physics,Someone else drives me,0.40782122905027934
+93,Doesn't take AP Physics,Takes AP Math,0.44692737430167595
+94,Doesn't take AP Spanish,Doesn't take AP Programming,0.8659217877094972
+95,Doesn't take AP Programming,Doesn't take no AP,0.8379888268156425
+96,Doesn't take AP Programming,Night owl,0.7541899441340782
+97,Doesn't take AP Programming,Someone else drives me,0.4748603351955307
+98,Doesn't take AP Programming,Takes AP Math,0.6368715083798883
+99,Doesn't take AP Spanish,Doesn't take no AP,0.8268156424581006
+100,Doesn't take AP Spanish,Night owl,0.7430167597765364
+101,Doesn't take AP Spanish,Someone else drives me,0.45251396648044695
+102,Doesn't take AP Spanish,Takes AP Math,0.6201117318435754
+103,Doesn't take no AP,Night owl,0.7039106145251397
+104,Someone else drives me,Doesn't take no AP,0.44692737430167595
+105,Doesn't take no AP,Takes AP Math,0.6871508379888268
+106,Someone else drives me,Night owl,0.40782122905027934
+107,Night owl,Takes AP Math,0.5251396648044693
